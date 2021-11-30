@@ -3,6 +3,7 @@
 <h1>My Web Page</h1>
 <style>
 h1{  color:blue  }
+h2{  color:light green }
 
 
 
@@ -13,5 +14,5 @@ h1{  color:blue  }
 <body>
 <h2>I like chocolate</h2>
 <h3> I have no idea for anything else to put here</h3>
-,h4> Buh byeeee</h4>
+<h4> Buh byeeee</h4>
 </html>
